@@ -1,0 +1,6 @@
+{
+  "name": "Edinburgh Mobility & Master Spreadsheet Hub",
+  "description": "Interactive Master Planning System for Indonesian applicants relocating to Edinburgh, Scotland for Master's studies or Skilled Worker migration, with live financial engines, UKVI document tracking, scholarship pipeline, and automated Google Apps Script generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
